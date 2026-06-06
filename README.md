@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Social Media Analytics + AI Dashboard
 
 An end-to-end data analytics and machine learning project built with Python.
@@ -48,3 +49,7 @@ python -m uvicorn app:app
 ```bash
 python -m uvicorn app:app 
 
+=======
+# social-media-analytics-dashboard
+End-to-end data analytics dashboard built with Python, FastAPI, Pandas, Machine Learning, and Streamlit.
+>>>>>>> 44c02419fd3f8c323ab6f43f6f025f3a055f288f
